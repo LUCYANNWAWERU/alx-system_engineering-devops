@@ -1,2 +1,2 @@
-#!/bin/ibash
-chown betty hello
+#!/bin/bash
+groups
